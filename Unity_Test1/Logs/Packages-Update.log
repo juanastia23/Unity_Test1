@@ -1,0 +1,17 @@
+
+=== Thu Oct 15 16:56:59 2026
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.modules.vr@1.0.0
+  com.unity.modules.accessibility@1.0.0
+  com.unity.multiplayer.center@1.0.1
+The following packages were updated:
+  com.unity.ide.rider from version 3.0.39 to 3.0.40
+  com.unity.ide.visualstudio from version 2.0.26 to 2.0.27
+  com.unity.render-pipelines.universal from version 17.3.0 to 17.4.0
+  com.unity.render-pipelines.universal-config from version 17.0.3 to 17.4.0
+  com.unity.timeline from version 1.8.11 to 1.8.12
+  com.unity.visualeffectgraph from version 17.3.0 to 17.4.0
