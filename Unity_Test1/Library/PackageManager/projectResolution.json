@@ -342,10 +342,15 @@
       "resolvedPath": "C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\com.unity.modules.unityanalytics",
       "version": "1.0.0",
       "source": "builtin",
-      "testable": false,
-      "errors": [
-        "EPERM: operation not permitted, rename 'C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\.tmp-24324-6g08Z2xS9LyQ\\package' -> 'C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\com.unity.modules.unitywebrequest'"
-      ]
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequest@1.0.0": {
+      "name": "com.unity.modules.unitywebrequest",
+      "displayName": "Unity Web Request",
+      "resolvedPath": "C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
     },
     "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
       "name": "com.unity.modules.unitywebrequestassetbundle",
@@ -353,10 +358,7 @@
       "resolvedPath": "C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
       "version": "1.0.0",
       "source": "builtin",
-      "testable": false,
-      "errors": [
-        "EPERM: operation not permitted, rename 'C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\.tmp-24324-6g08Z2xS9LyQ\\package' -> 'C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\com.unity.modules.unitywebrequest'"
-      ]
+      "testable": false
     },
     "com.unity.modules.unitywebrequestaudio@1.0.0": {
       "name": "com.unity.modules.unitywebrequestaudio",
@@ -364,10 +366,7 @@
       "resolvedPath": "C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
       "version": "1.0.0",
       "source": "builtin",
-      "testable": false,
-      "errors": [
-        "EPERM: operation not permitted, rename 'C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\.tmp-24324-6g08Z2xS9LyQ\\package' -> 'C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\com.unity.modules.unitywebrequest'"
-      ]
+      "testable": false
     },
     "com.unity.modules.unitywebrequesttexture@1.0.0": {
       "name": "com.unity.modules.unitywebrequesttexture",
@@ -375,10 +374,7 @@
       "resolvedPath": "C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
       "version": "1.0.0",
       "source": "builtin",
-      "testable": false,
-      "errors": [
-        "EPERM: operation not permitted, rename 'C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\.tmp-24324-6g08Z2xS9LyQ\\package' -> 'C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\com.unity.modules.unitywebrequest'"
-      ]
+      "testable": false
     },
     "com.unity.modules.unitywebrequestwww@1.0.0": {
       "name": "com.unity.modules.unitywebrequestwww",
@@ -386,10 +382,7 @@
       "resolvedPath": "C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
       "version": "1.0.0",
       "source": "builtin",
-      "testable": false,
-      "errors": [
-        "EPERM: operation not permitted, rename 'C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\.tmp-24324-6g08Z2xS9LyQ\\package' -> 'C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\com.unity.modules.unitywebrequest'"
-      ]
+      "testable": false
     },
     "com.unity.modules.vectorgraphics@1.0.0": {
       "name": "com.unity.modules.vectorgraphics",
@@ -413,10 +406,7 @@
       "resolvedPath": "C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\com.unity.modules.video",
       "version": "1.0.0",
       "source": "builtin",
-      "testable": false,
-      "errors": [
-        "EPERM: operation not permitted, rename 'C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\.tmp-24324-6g08Z2xS9LyQ\\package' -> 'C:\\Users\\JuanDavidAstiasuainz\\Git\\Unity1\\Unity_Test1\\Library\\PackageCache\\com.unity.modules.unitywebrequest'"
-      ]
+      "testable": false
     },
     "com.unity.modules.vr@1.0.0": {
       "name": "com.unity.modules.vr",
